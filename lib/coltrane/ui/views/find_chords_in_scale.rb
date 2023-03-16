@@ -7,7 +7,7 @@ module Coltrane
         questions({
           chord_type: {
             statement: 'Which kind of chords?',
-            options: ['tertian', 'all']
+            options: ['tertians', 'all']
           },
 
           chord_size: {
